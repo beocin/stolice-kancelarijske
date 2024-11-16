@@ -6,3 +6,6 @@ Stranice kategorija na web sajtu o kancelarijskim stolicama i kancelarijskom nam
 
 ## Kancelarijski nameštaj
 [Kancelarijski nameštaj](https://www.stoloviistolice.com/kancelarijski-namestaj/)
+
+## Radni stolovi
+[Radni stolovi za kancelariju i kompjuter](https://www.stoloviistolice.com/radni-stolovi/)
